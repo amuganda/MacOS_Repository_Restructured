@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Twilio Messenger - Displays Last Sent Message",
+  "main": "explore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{A}",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.39.4"
+  }
+}
